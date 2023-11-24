@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/controler_up.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/controler_jostik_button.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Controler_Buttonssf.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -20,6 +21,8 @@
         <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/controler.cs" />
         <option value="$PROJECT_DIR$/Assets/controler_jostik_button.cs" />
         <option value="$PROJECT_DIR$/Assets/controler_up.cs" />
+        <option value="$PROJECT_DIR$/Assets/controler_up1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Controler_Buttonssf.cs" />
       </list>
     </option>
   </component>
@@ -66,6 +69,7 @@
       <updated>1700235766413</updated>
       <workItem from="1700235780760" duration="635000" />
       <workItem from="1700837387823" duration="1510000" />
+      <workItem from="1700839632756" duration="443000" />
     </task>
     <servers />
   </component>
